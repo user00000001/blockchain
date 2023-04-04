@@ -1,0 +1,1 @@
+import{_ as o,p as a,q as s,Q as e,t}from"./framework-f538f058.js";const c={},n=e("h1",{id:"console-api-usage",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#console-api-usage","aria-hidden":"true"},"#"),t(" CONSOLE API USAGE")],-1),r=[n];function _(i,l){return a(),s("div",null,r)}const h=o(c,[["render",_],["__file","consoleApi.html.vue"]]);export{h as default};

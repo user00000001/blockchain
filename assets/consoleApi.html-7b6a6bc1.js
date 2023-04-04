@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6278d5ce","path":"/language/english/consoleApi.html","title":"CONSOLE API USAGE","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1591804269000,"contributors":[{"name":"暾暾","email":"631078133@qq.com","commits":1}]},"filePathRelative":"language/english/consoleApi.md"}');export{e as data};
